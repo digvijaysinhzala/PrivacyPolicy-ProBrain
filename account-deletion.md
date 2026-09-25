@@ -1,4 +1,4 @@
-# ProBrain — Account and Data Deletion
+# Account and Data Deletion
 
 ## How to Delete Your Account
 
