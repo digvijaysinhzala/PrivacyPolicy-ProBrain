@@ -1,4 +1,4 @@
-Effective date: September 25, 2026
+Effective date: September 26, 2026
 
 ProBrain ("we," "our," or "the App") is a productivity application that helps users manage tasks, build habits, plan their days, track focus sessions, and maintain personal records.
 
